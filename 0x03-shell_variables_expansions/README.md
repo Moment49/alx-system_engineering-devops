@@ -11,4 +11,6 @@ This project contains Bash scripts demonstrating various shell features and comm
 # 5-local_variables: prints the lists of local variables/ functions and environment variables included
 # 6- create_local_variables: Creates the local variable in the current shell session
 # 7-create_global_variable: Create a global or environment variable, system wide when exported
-# 8-true_knowledge: prints the sum of a environment variable Trueknowledge and 128
+# 8-true_knowledge: prints the sum of a environment variable Trueknowledge(1209) and 128 to give 1337
+# 9-divide_and_rule: prints the division of a environment variable Power and Divide (42784 / 32) to give 1337
+# 10-love_exponent_breath: displays the result of BREATH to the power LOVE
