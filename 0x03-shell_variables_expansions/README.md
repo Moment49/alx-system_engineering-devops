@@ -10,4 +10,5 @@ This project contains Bash scripts demonstrating various shell features and comm
 # 4-global_variables: prints the lists of environmental /global variable
 # 5-local_variables: prints the lists of local variables/ functions and environment variables included
 # 6- create_local_variables: Creates the local variable in the current shell session
-# 7-create_global_variable: Create a glbal or environment variable, system wide when exported
+# 7-create_global_variable: Create a global or environment variable, system wide when exported
+# 8-true_knowledge: prints the sum of a environment variable Trueknowledge and 128
