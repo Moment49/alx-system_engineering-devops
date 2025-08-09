@@ -7,4 +7,5 @@ This project contains Bash scripts demonstrating various shell features and comm
 # 1-hello_you: echo hello $USER
 # 2-path: add /action to PATH
 # 3-paths: count the directories in PATH
-# 4-gloable_variables: prints the lists of environmental /global variable
+# 4-global_variables: prints the lists of environmental /global variable
+# 5-local_variables: prints the lists of local variables/ functions and environment variables included
