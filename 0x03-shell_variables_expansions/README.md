@@ -15,3 +15,4 @@ This project contains Bash scripts demonstrating various shell features and comm
 # 9-divide_and_rule: prints the division of a environment variable Power and Divide (42784 / 32) to give 1337
 # 10-love_exponent_breath: displays the result of BREATH to the power LOVE
 # 11-binary_to_decimal: converts a number from base 2 to base 10.
+# 12-combinations: # This script generates all combinations of two lowercase letters from 'aa' to 'zz', excluding 'oo'.
