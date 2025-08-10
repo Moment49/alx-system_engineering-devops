@@ -1,1 +1,2 @@
 #!/bin/bash
+while read -r l; do echo "$l"; read -r _ || break; done
